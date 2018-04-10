@@ -50,7 +50,7 @@ class ReactClass extends React.Component {
 
 **GitHub: **https://github.com/xujingran217
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/ShiningDan/react-animation-resume)`;
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/xujingran217/react-animation-resume)`;
 
         this.styleEditorContent = [`/*
 * Inspired by http://strml.net/
