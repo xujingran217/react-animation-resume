@@ -9,14 +9,3 @@
 
 在线的项目展示效果可以点击链接： [React Animation Resume](http://htmlpreview.github.io/?https://github.com/xujingran217/react-animation-resume/blob/master/react-animation-resume/index.html)
 
-如果想在本地下载、编译、运行，可以参考以下命令：
-
-```
-git clone https://github.com/ShiningDan/react-animation-resume.git
-cd react-animation-resume/
-npm install
-npm run build
-npm run start
-```
-
-就可以在 http://localhost:8080/index.html 上看到项目的展示效果啦
